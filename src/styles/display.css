@@ -1,0 +1,11 @@
+.display {
+    background-color: black;
+    border: "#ccc 1px solid";
+    font-family: monospace;
+    letter-spacing: 1ch;  
+    resize: none;  
+}
+
+.display:focus {
+    outline: none;
+}
